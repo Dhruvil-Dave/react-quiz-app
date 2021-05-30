@@ -1,2 +1,2 @@
-npm i<br>
-npm start
+Quiz Hub<br>
+https://dhruvilquizhub.netlify.app/
